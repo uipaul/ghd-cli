@@ -1,7 +1,7 @@
 # ghd-cli
 
-* bold *
-_ underline _
+*bold*
+_underline_
 
 * item 1
 * item 2
