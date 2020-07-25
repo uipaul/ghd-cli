@@ -19,11 +19,14 @@ __This will also be bold__
 ### Unordered
 * item 1
 * item 2
-  * item 2.a
-  * item 2.b
+  * item 2a
+  * item 2b
 
 ### Ordered
 1. item 1
+   * item 1a
+   * item 2b
 2. item 2
-   * item 2.a
-   * item 2.b
+3. item 3
+   1. item 3a
+   2. item 3b
